@@ -1,1 +1,2 @@
 # London-Bus-safety-report-Jan-2015-to-Sep-2018-
+The bustling streets of London are traversed by a complex web of bus routes, connecting millions of commuters daily. But amid this bustling activity, safety remains paramount. My comprehensive analysis, spanning January 2015 to September 2018, delves into London’s bus safety landscape, unearthing trends, patterns, and key insights that can reshape safety strategies and ensure a safer journey for all.
